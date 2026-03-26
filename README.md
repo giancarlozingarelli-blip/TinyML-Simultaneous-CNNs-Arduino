@@ -9,13 +9,13 @@ The core objective is the concurrent execution of two Convolutional Neural Netwo
 2. **Obstacle Detection:** A vision/distance-based model for autonomous driving systems.
 
 ## 🛠️ Technical Specifications
-* **Hardware:** Arduino Nano 33 BLE Sense (ARM Cortex-M4, 256KB RAM, 1MB Flash). 
+* **Hardware:** Arduino Nano 33 BLE Sense (ARM Cortex-M4, 256KB RAM, 1MB Flash).
 * **Framework:** TensorFlow Lite Micro.
-* [cite_start]**Optimization:** Post-training quantization (INT8) to meet memory, latency, and power consumption constraints. 
+* **Optimization:** Post-training quantization (INT8) to meet memory, latency, and power consumption constraints.
 * **Languages/Tools:** Python (Keras/TensorFlow for training), C++ (Firmware/Arduino IDE).
 
 ## 📈 Key Results
-[cite_start]The models were optimized to ensure smooth real-time inference, achieving an optimal balance between accuracy and energy efficiency on edge hardware. 
+The models were optimized to ensure smooth real-time inference, achieving an optimal balance between accuracy and energy efficiency on edge hardware.
 
-
+---
 *Author: Giancarlo Zingarelli*
