@@ -1,0 +1,14 @@
+# --- Arduino ---
+# File temporanei di compilazione
+build/
+bin/
+*.pyc
+
+# --- Python / Jupyter (per i tuoi notebook di training) ---
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# --- OS specific ---
+.DS_Store
+Thumbs.db
