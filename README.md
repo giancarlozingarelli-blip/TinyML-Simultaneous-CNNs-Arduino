@@ -1,6 +1,6 @@
 # EdgeAI: Simultaneous CNNs on ARM Cortex-M4
 
-This repository contains the work developed for my Master's Thesis in Electronic Engineering at **Politecnico di Bari**. The project focuses on the simultaneous deployment of two Deep Learning models on a resource-constrained embedded system.
+This repository contains the work developed for my Bachelor's Thesis in Electronic Engineering at **Politecnico di Bari**. The project focuses on the simultaneous deployment of two Deep Learning models on a resource-constrained embedded system.
 
 ## 🚀 Project Overview
 The core objective is the concurrent execution of two Convolutional Neural Networks (CNNs) on a single **Arduino Nano 33 BLE Sense** microcontroller.
